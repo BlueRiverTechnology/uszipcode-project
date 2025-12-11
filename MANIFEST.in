@@ -8,3 +8,4 @@ include *.rst
 recursive-include uszipcode *.*
 recursive-exclude *.pyc
 recursive-exclude *.pyo
+global-exclude __pycache__/*
